@@ -4,6 +4,7 @@
 <body>
 
 <h2>All Employees</h2>
+<h2>All Employees</h2>
 <br>
 <table>
     <tr>
