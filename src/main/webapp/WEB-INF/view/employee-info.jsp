@@ -3,7 +3,7 @@
 <html>
 
 <body>
-<h2>Employee _info</h2>
+<h2>Employee info</h2>
 
 <br>
 
